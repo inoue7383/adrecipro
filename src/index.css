@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@theme {
+  /* ここにカスタムカラーを定義します */
+  --color-primary: #3b82f6; /* 好きな青色を指定 */
+  --color-primary-hover: #2563eb;
+}
